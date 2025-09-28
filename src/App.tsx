@@ -9,7 +9,7 @@ import { AuthProvider } from '@/context/AuthContext';
 
 // Layouts & Core Components
 import { Toaster } from '@/components/ui/toaster';
-import ProtectedRoute from '@/components/ProtectedRoute';
+import { ProtectedRoute } from '@/components/ProtectedRoute';
 
 // Public Pages
 import Index from '@/pages/Index';
